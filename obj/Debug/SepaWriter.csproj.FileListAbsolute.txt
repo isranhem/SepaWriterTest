@@ -1,0 +1,9 @@
+C:\Sepa\sepawriter-master\SepaWriter\bin\Debug\Xsd\pain.001.001.03.xsd
+C:\Sepa\sepawriter-master\SepaWriter\bin\Debug\Xsd\pain.008.001.02.xsd
+C:\Sepa\sepawriter-master\SepaWriter\bin\Debug\Xsd\pain.008.001.03.xsd
+C:\Sepa\sepawriter-master\SepaWriter\bin\Debug\Nova.SepaWriter.dll
+C:\Sepa\sepawriter-master\SepaWriter\bin\Debug\Nova.SepaWriter.pdb
+C:\Sepa\sepawriter-master\SepaWriter\bin\Debug\log4net.dll
+C:\Sepa\sepawriter-master\SepaWriter\bin\Debug\log4net.xml
+C:\Sepa\sepawriter-master\SepaWriter\obj\Debug\Nova.SepaWriter.dll
+C:\Sepa\sepawriter-master\SepaWriter\obj\Debug\Nova.SepaWriter.pdb
